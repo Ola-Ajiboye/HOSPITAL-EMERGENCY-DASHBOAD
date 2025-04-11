@@ -1,6 +1,7 @@
 # HOSPITAL EMERGENCY DASHBOAD
 ## OBJECTIVE
 The objective of this project is to analyze hospital emergency room data to uncover patterns and trends in patient visits, treatment duration, admision rate. This goal is to provide actionable insights that can help hospital administrators improve resources allocation, reduce patient wait times, optimize staffing schedules, and enhance overall emergency room efficiency and patient care, Emergency Room Datasets Covering a Periods of 19th Months, Record a total number of 9216 Unique Patients.
+
 ![cap](https://github.com/user-attachments/assets/41d7975b-ab06-4a56-bbe7-fb39aaf95caf)
 
 ## KEY PERFORMANCE INDICATORS
